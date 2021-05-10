@@ -12,3 +12,5 @@ console.log('Max: ', Max(2,3));
 
 let Eq = (a,b) => a===b;
 console.log('Eq: ', Eq(2,2));
+
+
